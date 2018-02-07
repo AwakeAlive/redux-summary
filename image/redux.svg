@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1842 -3128 15652 7143" width="15652pt" height="7143pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.6 
+    <dc:date>2018-02-07 03:39:35 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="400" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Arrow_Marker" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#ff6060">
+      <g>
+        <path d="M 1.68 0 L 0 -.63 L 0 .63 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="300" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Arrow_Marker_2" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#ff6060">
+      <g>
+        <path d="M 1.68 0 L 0 -.63 L 0 .63 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="15652" height="7143"/>
+    <g>
+      <title>Layer 1</title>
+      <rect x="648" y="2909" width="3756" height="1105" fill="#ffffc0"/>
+      <rect x="648" y="2909" width="3756" height="1105" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(653 3222.9)" fill="fuchsia">
+        <tspan font-family="Helvetica Neue" font-size="400" font-weight="500" fill="fuchsia" x="1117.4" y="381">Reducer</tspan>
+      </text>
+      <path d="M 10054 -581 L 13808 -581 C 13808.552 -581 13809 -580.5523 13809 -580 L 13809 523 C 13809 523.5523 13808.552 524 13808 524 L 10054 524 C 10053.448 524 10053 523.5523 10053 523 L 10053 -580 C 10053 -580.5523 10053.448 -581 10054 -581 Z" fill="#ffffc0"/>
+      <path d="M 10054 -581 L 13808 -581 C 13808.552 -581 13809 -580.5523 13809 -580 L 13809 523 C 13809 523.5523 13808.552 524 13808 524 L 10054 524 C 10053.448 524 10053 523.5523 10053 523 L 10053 -580 C 10053 -580.5523 10053.448 -581 10054 -581 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(10058 -267.09998)" fill="fuchsia">
+        <tspan font-family="Helvetica Neue" font-size="400" font-weight="500" fill="fuchsia" x="1676.8" y="381">UI</tspan>
+      </text>
+      <rect x="-1841" y="-623" width="3789" height="1151" fill="#ffffc0"/>
+      <rect x="-1841" y="-623" width="3789" height="1151" stroke="fuchsia" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(-1836 -286.09998)" fill="fuchsia">
+        <tspan font-family="Helvetica Neue" font-size="400" font-weight="500" fill="fuchsia" x="1411.7" y="381">Stor</tspan>
+        <tspan font-family="Helvetica Neue" font-size="400" font-weight="500" fill="fuchsia" x="2152.5" y="381">e</tspan>
+      </text>
+      <rect x="3982" y="-3127" width="3756" height="1105" fill="#ffffc0"/>
+      <rect x="3982" y="-3127" width="3756" height="1105" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(3987 -2813.1)" fill="fuchsia">
+        <tspan font-family="Helvetica Neue" font-size="400" font-weight="500" fill="fuchsia" x="1402.6" y="381">State</tspan>
+      </text>
+      <rect x="6663" y="2909" width="3756" height="1105" fill="#ffffc0"/>
+      <rect x="6663" y="2909" width="3756" height="1105" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(6668 3222.9)" fill="fuchsia">
+        <tspan font-family="Helvetica Neue" font-size="400" font-weight="500" fill="fuchsia" x="1202.6" y="381">Actions</tspan>
+      </text>
+      <line x1="7784.932" y1="-2661.832" x2="10851.91" y2="-713.8729" marker-end="url(#Arrow_Marker)" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="80"/>
+      <text transform="translate(9514 -2118.7)" fill="red">
+        <tspan font-family="Helvetica Neue" font-size="300" font-weight="500" fill="red" x=".35" y="286">defi</tspan>
+        <tspan font-family="Helvetica Neue" font-size="300" font-weight="500" fill="red" x="494.75" y="286">ne</tspan>
+      </text>
+      <line x1="11393.845" y1="524.5" x2="9250.184" y2="2731.3965" marker-end="url(#Arrow_Marker_2)" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="80"/>
+      <text transform="translate(10333 1758.3)" fill="red">
+        <tspan font-family="Helvetica Neue" font-size="300" font-weight="500" fill="red" x=".3" y="286">trigger</tspan>
+      </text>
+      <line x1="2644.9324" y1="2898.168" x2="723.3145" y2="713.87474" marker-end="url(#Arrow_Marker_2)" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="80"/>
+      <line x1="913.045" y1="-623.5" x2="3719.827" y2="-2504.386" marker-end="url(#Arrow_Marker_2)" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="80"/>
+      <line x1="6662.5" y1="3461.5" x2="4651.4" y2="3461.5" marker-end="url(#Arrow_Marker_2)" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="80"/>
+      <text transform="translate(5141 2982.3)" fill="red">
+        <tspan font-family="Helvetica Neue" font-size="300" font-weight="500" fill="red" x=".25" y="286">sent to</tspan>
+      </text>
+      <text transform="translate(107 1730.3)" fill="red">
+        <tspan font-family="Helvetica Neue" font-size="300" font-weight="500" fill="red" x=".35" y="286">updates</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

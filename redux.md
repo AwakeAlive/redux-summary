@@ -28,7 +28,7 @@ store是唯一的
 store包括了完整的state
 
 state变得完全可以预测
-
+![redux流程图](./image/redux.svg)
 ## container和component区别
 
 | Property / Type | Container | Component |
